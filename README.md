@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Please visit my [personal website](https://leejseo.com/about)!  
+And feel free to [contact](mailto:jongseolee.2000@gmail.com) me~
+
 <!--
 **leejseo/leejseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
