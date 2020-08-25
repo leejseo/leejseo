@@ -3,6 +3,8 @@
 Please visit my [personal website](https://leejseo.com/about)!  
 And feel free to [contact](mailto:jongseolee.2000@gmail.com) me~
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=leejseo)](https://solved.ac/leejseo)
+
 <!--
 **leejseo/leejseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
