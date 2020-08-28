@@ -3,7 +3,8 @@
 Please visit my [personal website](https://leejseo.com/about)!  
 And feel free to [contact](mailto:jongseolee.2000@gmail.com) me~
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=leejseo)](https://solved.ac/leejseo)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejseo)](https://solved.ac/leejseo)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejseo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
