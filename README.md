@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please visit my [personal website](https://leejseo.com/about)!  
+To get more information about me, please visit my [personal website](https://leejseo.com/about)!  
 And feel free to [contact](mailto:jongseolee.2000@gmail.com) me~
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejseo)](https://solved.ac/leejseo)
