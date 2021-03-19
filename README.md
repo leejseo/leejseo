@@ -5,6 +5,7 @@
 ## Profile
 * Jongseo Lee (이종서)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
+* Software Engineer Intern at [Moloco, Inc.](https://moloco.com)
 * Competitive Programmer
   * Codeforces Handle: [leejseo](https://codeforces.com/profile/leejseo) [![](https://run.kaist.ac.kr/badges/codeforces/leejseo.svg)](https://codeforces.com/profile/leejseo)
   * Baekjoon OJ/solved.ac: [leejseo](https://solved.ac/profile/leejseo)
