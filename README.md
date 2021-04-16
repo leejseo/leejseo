@@ -14,8 +14,6 @@
 
 ## Cards
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejseo)](https://solved.ac/leejseo)
-
 [![CodeForces Profile](http://cf.leed.at?id=leejseo)](https://codeforces.com/profile/leejseo)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejseo)](https://github.com/anuraghazra/github-readme-stats)
