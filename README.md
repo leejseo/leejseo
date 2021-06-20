@@ -2,19 +2,22 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejseo)](https://github.com/leejseo)
 
+[![CodeForces Profile](http://cf.leed.at?id=leejseo)](https://codeforces.com/profile/leejseo)
+
 ## Profile
 * Jongseo Lee (이종서)
 * Software Engineer at [Moloco, Inc.](https://moloco.com)
-* Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
+* Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
-  * Codeforces Handle: [leejseo](https://codeforces.com/profile/leejseo) [![](https://run.kaist.ac.kr/badges/codeforces/leejseo.svg)](https://codeforces.com/profile/leejseo)
-  * Baekjoon OJ/solved.ac: [leejseo](https://solved.ac/profile/leejseo)
-* [Personal Website](https://leejseo.com/about)
+* [Personal Website](https://leejseo.com/)
 * [Contact](mailto:jongseolee.2000@gmail.com)
 
-## Cards
+## Tech Stacks
 
-[![CodeForces Profile](http://cf.leed.at?id=leejseo)](https://codeforces.com/profile/leejseo)
+* Programming Languages: Go, Python, C++, C, JavaScript, TypeScript, LaTeX, Java, Scala
+* Others: Git, Vim, PyTorch, React.JS, gRPC, Hadoop
+
+## Cards
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejseo)](https://github.com/anuraghazra/github-readme-stats)
 
