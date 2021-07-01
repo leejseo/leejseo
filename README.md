@@ -6,7 +6,7 @@
 
 ## Profile
 * Jongseo Lee (이종서)
-* Software Engineer at [Moloco, Inc.](https://moloco.com)
+* Software Engineer at [Moloco, Inc.](https://molocoads.com)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
 * [Personal Website](https://leejseo.com/)
