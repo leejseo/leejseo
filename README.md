@@ -6,7 +6,7 @@
 
 ## Profile
 * Jongseo Lee (이종서), (they/them)
-* Server Software Engineer at [Sendbird, Inc.](https://sendbird.com/)
+* Server Platform Software Engineer at [Sendbird, Inc.](https://sendbird.com/)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
 * [Personal Website](https://leejseo.com/)
