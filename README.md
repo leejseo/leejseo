@@ -6,7 +6,7 @@
 
 ## Profile
 * Jongseo Lee (이종서), (they/them)
-* Server Platform Software Engineer at [Sendbird, Inc.](https://sendbird.com/)
+* Software Engineer at [Sendbird, Inc.](https://sendbird.com/)
   * Working as a substitute of mandatory military service (산업기능요원 복무 중)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
@@ -15,7 +15,7 @@
 
 ## Tech Stacks
 
-* Programming Languages: Go, Python, C++, C, JavaScript, TypeScript, LaTeX, Java, Scala
+* Programming Languages: Go, Python, C++, C, JavaScript, TypeScript, LaTeX
 * Others: Git, Vim, PyTorch, React.JS, gRPC, Hadoop
 
 ## Cards
