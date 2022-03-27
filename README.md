@@ -6,7 +6,7 @@
 
 ## Profile
 * Jongseo Lee (이종서), (they/them)
-* Software Engineer at [Sendbird, Inc.](https://sendbird.com/)
+* Software Engineer at [Chai Corporation](https://chai.finance/)
   * Working as a substitute of mandatory military service (산업기능요원 복무 중)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
