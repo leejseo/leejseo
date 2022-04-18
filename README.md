@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejseo)](https://github.com/leejseo)
 
-[![CodeForces Profile](http://cf.leed.at?id=leejseo)](https://codeforces.com/profile/leejseo)
-
 ## Profile
 * Jongseo Lee (이종서), (they/them)
 * Software Engineer at [Chai Corporation](https://chai.finance/)
