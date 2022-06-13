@@ -8,6 +8,7 @@
   * Working as a substitute of mandatory military service (산업기능요원 복무 중)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
 * Competitive Programmer
+  * Google Hash Code 2022 World Finalist (9th place)
 * [Personal Website](https://leejseo.com/)
 * Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongseolee.2000@gmail.com)](mailto:jongseolee.2000@gmail.com)
 
