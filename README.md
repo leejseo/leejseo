@@ -6,7 +6,8 @@
 * Jongseo Lee (이종서), (they/them)
 * Software Engineer at [Chai Corporation](https://chai.finance/)
   * Working as a substitute of mandatory military service (산업기능요원 복무 중)
-* Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr) (Currently on leave)
+* Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
+  * Double major: Mathematics
 * Competitive Programmer
   * Google Hash Code 2022 World Finalist (9th place)
 * [Personal Website](https://leejseo.com/)
@@ -14,12 +15,10 @@
 
 ## Tech Stacks
 
-* Programming Languages: Go, Python, C++, C, JavaScript, TypeScript, LaTeX
-* Others: Git, Vim, PyTorch, React.JS, gRPC, Hadoop
+* Programming Languages: Go, TypeScript, Python, C++, LaTeX
+* Others: Git, Vim, PyTorch, React.JS, gRPC, Protobuf, Hadoop
 
 ## Cards
-
-![Jiun's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leejseo)
 
 [![Jongseo's Github stats](https://github-readme-stats.vercel.app/api?username=leejseo)](https://github.com/leejseo/leejseo)
 
