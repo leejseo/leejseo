@@ -15,7 +15,7 @@
 
 ## Tech Stacks
 
-* Programming Languages: Go, TypeScript, Python, C++, LaTeX
+* Programming Languages: Go, Kotlin, TypeScript, Python, C++, LaTeX
 * Others: Git, Vim, PyTorch, React.JS, gRPC, Protobuf, Hadoop
 
 ## Cards
