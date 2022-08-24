@@ -9,7 +9,7 @@
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
   * Double major: Mathematics
 * Competitive Programmer
-  * Google Hash Code 2022 World Finalist (9th place)
+  * 2022 Google Hash Code World Finalist (9th place)
   * 2020 ACM-ICPC Seoul Regional Contest (ICPC 5th)
   * 2018 Korea Olympiad in Informatics (Silver Award)
 * [Personal Website](https://leejseo.com/)
