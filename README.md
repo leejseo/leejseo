@@ -22,7 +22,7 @@
 
 ## Cards
 
-[![Jongseo's Github stats](https://github-readme-stats.vercel.app/api?username=leejseo)](https://github.com/leejseo/leejseo)
+[![Jongseo's Github stats](https://github-readme-stats.vercel.app/api?username=leejseo&count_private=true)](https://github.com/leejseo/leejseo)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leejseo)](https://github.com/ryo-ma/github-profile-trophy)
 
