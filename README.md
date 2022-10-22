@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejseo)](https://github.com/leejseo)
 
+I am always open to new opportunities! Feel free to contact me.
+
 ## Profile
 * Jongseo Lee (이종서), (they/them)
 * Software Engineer at [I'mport](https://www.iamport.kr/) of [Chai Corporation](https://chai.finance/)
