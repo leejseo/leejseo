@@ -15,6 +15,7 @@ I am always open to new opportunities! Feel free to contact me.
   * 2020 ACM-ICPC Seoul Regional Contest (5th place by ICPC rules)
   * 2018 Korea Olympiad in Informatics (Silver Medal)
 * [Personal Website](https://leejseo.com/)
+* Interested in: Algorithm, Theoretical Computer Science, Combinatorial Optimization, Auctions & Bidding
 * Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongseolee.2000@gmail.com)](mailto:jongseolee.2000@gmail.com)
 
 ## Tech Stacks
