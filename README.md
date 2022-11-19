@@ -10,6 +10,8 @@ I am always open to new opportunities! Feel free to contact me.
   * Working as a substitute of mandatory military service (산업기능요원 복무 중)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
   * Double major: Mathematics
+* Research Intern at [Combinatorial Optimization Laboratory](http://opt.yonsei.ac.kr/), Yonsei University
+  * Advisor: Prof. Hyung-Chan An
 * Competitive Programmer
   * 2022 Google Hash Code World Finalist (9th place)
   * 2020 ACM-ICPC Seoul Regional Contest (5th place by ICPC rules)
