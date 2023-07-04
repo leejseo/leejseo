@@ -7,7 +7,6 @@ I am always open to new opportunities! Feel free to contact me.
 ## Profile
 * Jongseo Lee (이종서), (they/them)
 * Software Engineer at [Moloco](https://moloco.com)
-  * Working as a substitute for mandatory military service (산업기능요원 복무 중)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
   * Double major: Mathematics
 * Research Intern at [Combinatorial Optimization Laboratory](http://opt.yonsei.ac.kr/), Yonsei University
