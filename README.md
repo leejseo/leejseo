@@ -9,6 +9,7 @@ I am always open to new opportunities! Feel free to contact me.
 * Software Engineer at [Moloco](https://moloco.com)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
   * Double major: Mathematics
+  * In a leave of absence (2021 \~)
 * Research Intern at [Combinatorial Optimization Laboratory](http://opt.yonsei.ac.kr/), Yonsei University
   * Advisor: Prof. Hyung-Chan An
 * Competitive Programmer
