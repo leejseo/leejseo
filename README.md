@@ -5,19 +5,16 @@
 I am always open to new opportunities! Feel free to contact me.
 
 ## Profile
-* Jongseo Lee (이종서), (they/them)
+* Jongseo Lee (이종서)
 * Undergraduate Student at [School of Computing, KAIST](https://cs.kaist.ac.kr)
   * Double major: Mathematics
-  * In a leave of absence (2021 \~)
 * Formerly Software Engineer at [Moloco](https://moloco.com)
-* Formerly Research Intern at [Combinatorial Optimization Laboratory](http://opt.yonsei.ac.kr/), Yonsei University
-  * Advisor: Prof. Hyung-Chan An
 * Competitive Programmer
   * 2022 Google Hash Code World Finalist (9th place)
   * 2020 ACM-ICPC Seoul Regional Contest (5th place by ICPC rules)
   * 2018 Korea Olympiad in Informatics (Silver Medal)
 * [Personal Website](https://leejseo.com/)
-* Interested in: approximation algorithm, online algorithm, learning-augmented algorithm, auction/bidding
+* Interested in: approximation algorithm, online algorithm, learning-augmented algorithm, graph structure theory
 * Contact: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jongseolee.2000@gmail.com)](mailto:jongseolee.2000@gmail.com)
 
 ## Cards
